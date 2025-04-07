@@ -4,7 +4,7 @@
 ##############################################################################
 
 # CMake minimum version
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.10)
 
 # project name and languages
 project(BeginBar CXX RC)
